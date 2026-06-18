@@ -1,5 +1,11 @@
 # Claude Code 中直接使用 Deepseek v4 模型
 
+
+
+https://github.com/user-attachments/assets/b073369d-a0ab-4565-9d7f-71fe73207e31
+
+
+
 Claude Code 凭借其出色的任务调度与交付质量，已成为众多开发者的核心编程工具。然而，Claude 系列模型的调用成本相对较高，对于日常高频使用场景而言，长期开销不容忽视。
 
 DeepSeek V4 是深度求索公司推出的新一代大语言模型，在保持出色推理能力的同时，其 API 调用价格极具竞争力。[Claude Code 启动器](https://www.claudezip.cn?utm_source=github&utm_medium=article&utm_campaign=claude-code-qidongqi)提供了 **自带密钥（Bring Your Own Key，简称 BYOK）** 功能，使用者只需填入自有 API 密钥，即可在 Claude Code 中无缝使用 DeepSeek V4 模型，兼顾质量与成本。
