@@ -1,5 +1,7 @@
 # 常用提示词面板：让 Claude Code 更听你的指挥
 
+https://github.com/user-attachments/assets/3e057d61-35f8-4982-bbf3-9dfcf90e2913
+
 ## 常用提示词面板
 
 **常用提示词面板**，就是 Claude Code 里专门用来管理“常用提示词片段”的一个小工具。用好这个面板，**不仅能帮使用者避免重复输入，节省大量时间，更能让 Claude Code 认真听从使用者的指挥**。
