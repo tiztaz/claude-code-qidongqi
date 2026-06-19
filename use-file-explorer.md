@@ -1,5 +1,7 @@
 # 简单直观的文件操作：使用项目文件面板
 
+https://github.com/user-attachments/assets/88a7cf0a-9e41-424a-b306-2aaf15753559
+
 虽然通过命令行输入 `@` 是 [Claude Code 提供的标准引用操作](include-project-files-in-prompts.md)，旨在为 Claude 提供明确、结构化的上下文，但当需要处理的文件增多时，纯键盘输入存在显著的局限性：
 
 *   **路径记忆负担：** 手动输入长路径不仅依赖记忆，且极易出错。
