@@ -1,6 +1,6 @@
 # 任务历史面板：浏览 Claude Code 的完整任务对话，让 AI 编程更连贯
 
-https://github.com/user-attachments/assets/3e057d61-35f8-4982-bbf3-9dfcf90e2913
+https://github.com/user-attachments/assets/d2051fbf-1aef-47f6-8dab-e8ae131c0b1c
 
 ## Claude Code 自带的 `/resume` 命令不好用
 
